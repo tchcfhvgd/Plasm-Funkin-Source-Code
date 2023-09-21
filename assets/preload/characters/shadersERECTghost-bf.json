@@ -1,0 +1,166 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-65,
+				30
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"offsets": [
+				7,
+				39
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left"
+		},
+		{
+			"offsets": [
+				-42,
+				15
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				-81,
+				69
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"offsets": [
+				-82,
+				26
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right"
+		},
+		{
+			"offsets": [
+				11,
+				30
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "missed left"
+		},
+		{
+			"offsets": [
+				-40,
+				10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "missed down"
+		},
+		{
+			"offsets": [
+				-98,
+				133
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "missed up"
+		},
+		{
+			"offsets": [
+				-60,
+				26
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "missed right"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-104,
+				80
+			],
+			"anim": "firstDeath",
+			"fps": 24,
+			"name": "death",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-104,
+				60
+			],
+			"anim": "deathConfirm",
+			"fps": 24,
+			"name": "confirmedDeath",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-104,
+				18
+			],
+			"anim": "deathLoop",
+			"fps": 24,
+			"name": "loopedDeath",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-73,
+				60
+			],
+			"anim": "hey",
+			"fps": 24,
+			"name": "hey",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/shadedERECTghost-bf",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		0,
+		123,
+		235
+	],
+	"camera_position": [
+		-10,
+		-110
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

@@ -1,0 +1,111 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				98,
+				91
+			],
+			"anim": "cheer",
+			"fps": 24,
+			"name": "cheer",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				99,
+				92
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				99,
+				91
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				99,
+				92
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				99,
+				92
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				99,
+				92
+			],
+			"anim": "danceLeft",
+			"fps": 24,
+			"name": "dance left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				100,
+				93
+			],
+			"anim": "danceRight",
+			"fps": 24,
+			"name": "dance right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				98,
+				92
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "opsie",
+			"loop": false,
+			"name": "opsie daisy"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/shadedERECTghost-gf",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "gf",
+	"flip_x": false,
+	"healthbar_colors": [
+		126,
+		0,
+		62
+	],
+	"camera_position": [
+		-270,
+		-40
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

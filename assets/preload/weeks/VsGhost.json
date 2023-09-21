@@ -1,0 +1,47 @@
+{
+	"storyName": "",
+	"difficulties": "Hard, Erect",
+	"hideFreeplay": false,
+	"weekBackground": "ghostWeekBG",
+	"weekBefore": "",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekOverlay": "ghostOverlayBG",
+	"startUnlocked": true,
+	"weekIcon": "ghostWeekIcon",
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Translucid",
+			"ghost",
+			[
+				86,
+				153,
+				255
+			]
+		],
+		[
+			"Exorcism",
+			"ghost",
+			[
+				86,
+				153,
+				255
+			]
+		],
+		[
+			"Sunrise",
+			"ghost",
+			[
+				86,
+				153,
+				255
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Ghost Week"
+}

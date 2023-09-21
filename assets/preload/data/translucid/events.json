@@ -1,0 +1,151 @@
+{
+	"song": {
+		"events": [
+			[
+				0,
+				[
+					[
+						"Cinematics (With HUD)",
+						"0.3",
+						"90"
+					]
+				]
+			],
+			[
+				28800,
+				[
+					[
+						"Cinematics (With HUD)",
+						"0.5",
+						"0"
+					],
+					[
+						"Hey!",
+						"gf",
+						""
+					]
+				]
+			],
+			[
+				48000,
+				[
+					[
+						"Cinematics (With HUD)",
+						"0.5",
+						"90"
+					],
+					[
+						"Hey!",
+						"gf",
+						""
+					]
+				]
+			],
+			[
+				67200,
+				[
+					[
+						"Cinematics (With HUD)",
+						"0.5",
+						"45"
+					],
+					[
+						"Hey!",
+						"gf",
+						""
+					]
+				]
+			],
+			[
+				76800,
+				[
+					[
+						"Cinematics (With HUD)",
+						"0.5",
+						"0"
+					]
+				]
+			],
+			[
+				85200,
+				[
+					[
+						"Bitto's zoom event",
+						"custom",
+						"0.90,0.3,quadIn"
+					],
+					[
+						"Hey!",
+						"gf",
+						""
+					]
+				]
+			],
+			[
+				85800,
+				[
+					[
+						"Bitto's zoom event",
+						"custom",
+						"0.65,0.7,quadIn"
+					]
+				]
+			],
+			[
+				86400,
+				[
+					[
+						"Cinematics (With HUD)",
+						"0.5",
+						"90"
+					]
+				]
+			],
+			[
+				96000,
+				[
+					[
+						"Cinematics (With HUD)",
+						"1",
+						"45"
+					]
+				]
+			],
+			[
+				104400,
+				[
+					[
+						"Cinematics (With HUD)",
+						"1.5",
+						"0"
+					]
+				]
+			],
+			[
+				105600,
+				[
+					[
+						"Hey!",
+						"gf",
+						""
+					]
+				]
+			],
+			[
+				134400,
+				[
+					[
+						"Bitto's zoom event",
+						"custom",
+						"0.55,1,quadOut"
+					],
+					[
+						"Hey!",
+						"gf",
+						"1"
+					]
+				]
+			]
+		]
+	}
+}

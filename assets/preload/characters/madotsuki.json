@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				545,
+				80
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				745,
+				244
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "semaphore",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				600,
+				29
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "faceless",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				534,
+				107
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "frog",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				592,
+				133
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "handhead",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/madotuski",
+	"position": [
+		680,
+		350
+	],
+	"healthicon": "bf",
+	"flip_x": false,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		-610,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

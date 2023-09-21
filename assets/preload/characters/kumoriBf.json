@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-75,
+				60
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "idle"
+		},
+		{
+			"offsets": [
+				-70,
+				63
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "left"
+		},
+		{
+			"offsets": [
+				-62,
+				38
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "down"
+		},
+		{
+			"offsets": [
+				-76,
+				77
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "up"
+		},
+		{
+			"offsets": [
+				-67,
+				58
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "right"
+		},
+		{
+			"offsets": [
+				-53,
+				69
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"loop": false,
+			"name": "missed left"
+		},
+		{
+			"offsets": [
+				-55,
+				41
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"loop": false,
+			"name": "missed down"
+		},
+		{
+			"offsets": [
+				-76,
+				77
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUPmiss",
+			"loop": false,
+			"name": "missed up"
+		},
+		{
+			"offsets": [
+				-70,
+				58
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"loop": false,
+			"name": "missed right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/kumori-bf",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "kumoribf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		49,
+		49
+	],
+	"camera_position": [
+		-30,
+		-40
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
