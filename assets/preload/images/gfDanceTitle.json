@@ -1,0 +1,12 @@
+{	
+	"titlex":150,
+	"titley":-50,
+	"startx":100,
+	"starty":576,
+	"gfx":512,
+	"gfy":40,
+	"backgroundSprite":"whiteBG",
+	"backgroundEnter":"pressEnterOV",
+	"backgroundOverlay":"linesOV",
+	"bpm":115
+}
