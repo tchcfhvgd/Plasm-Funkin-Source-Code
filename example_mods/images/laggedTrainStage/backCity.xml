@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="backCity.png">
+	<!-- Created with Adobe Animate version 21.0.8.42666 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="city0000" x="27" y="27" width="2282" height="1188" pivotX="0" pivotY="0" frameX="0" frameY="0" frameWidth="2282" frameHeight="1191"/>
+	<SubTexture name="city0001" x="27" y="27" width="2282" height="1188" frameX="0" frameY="0" frameWidth="2282" frameHeight="1191"/>
+	<SubTexture name="city0002" x="27" y="1271" width="2282" height="1188" frameX="0" frameY="-3" frameWidth="2282" frameHeight="1191"/>
+	<SubTexture name="city0003" x="27" y="1271" width="2282" height="1188" frameX="0" frameY="-3" frameWidth="2282" frameHeight="1191"/>
+	<SubTexture name="city0004" x="27" y="2515" width="2282" height="1188" frameX="0" frameY="-3" frameWidth="2282" frameHeight="1191"/>
+	<SubTexture name="city0005" x="27" y="2515" width="2282" height="1188" frameX="0" frameY="-3" frameWidth="2282" frameHeight="1191"/>
+</TextureAtlas>
