@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="cate_settings.png">
+	<!-- Created with Adobe Animate version 21.0.8.42666 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="settings black0000" x="27" y="368" width="158" height="151" pivotX="-615" pivotY="-1"/>
+	<SubTexture name="settings white0000" x="27" y="27" width="292" height="285" pivotX="-550" pivotY="64"/>
+</TextureAtlas>

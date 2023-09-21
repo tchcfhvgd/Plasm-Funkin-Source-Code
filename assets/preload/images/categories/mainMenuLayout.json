@@ -1,0 +1,9 @@
+{
+    "ghostP":[60,-60],
+	"ghostS":[0.9,0.9],
+	"blockedP":[700,-60],
+	"blockedS":[0.9,0.9],
+	"settingsP":[559,450],
+	"settingsS":[0.9,0.9],
+	"centerX": false
+}

@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="cate_ghost.png">
+	<!-- Created with Adobe Animate version 21.0.8.42666 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="ghost black0000" x="799" y="27" width="582" height="716" pivotX="0" pivotY="-2"/>
+	<SubTexture name="ghost white0000" x="27" y="27" width="716" height="850" pivotX="65" pivotY="63"/>
+</TextureAtlas>
