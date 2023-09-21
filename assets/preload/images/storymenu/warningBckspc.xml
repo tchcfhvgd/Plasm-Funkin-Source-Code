@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="warningBckspc.png">
+	<!-- Created with Adobe Animate version 21.0.8.42666 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="warning-talk instância 10000" x="20" y="20" width="1030" height="613"/>
+	<SubTexture name="warning-talk instância 10001" x="1067" y="20" width="1030" height="613"/>
+	<SubTexture name="warning-talk instância 10002" x="2114" y="20" width="1030" height="613"/>
+	<SubTexture name="warning-talk instância 10003" x="20" y="650" width="1030" height="613"/>
+	<SubTexture name="warning-talk instância 10004" x="1067" y="650" width="1030" height="613"/>
+	<SubTexture name="warning-talk instância 10005" x="2114" y="650" width="1030" height="613"/>
+	<SubTexture name="warning-talk instância 10006" x="20" y="1280" width="1030" height="613"/>
+	<SubTexture name="warning-talk instância 10007" x="1067" y="1280" width="1030" height="613"/>
+</TextureAtlas>
