@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="gf-old.png">
+	<!-- Created with Adobe Animate version 21.0.8.42666 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="danceLeft instância 10000" x="3119" y="1391" width="437" height="648" pivotX="22.55" pivotY="228.95" frameX="-24" frameY="0" frameWidth="461" frameHeight="648"/>
+	<SubTexture name="danceLeft instância 10001" x="3119" y="1391" width="437" height="648" frameX="-24" frameY="0" frameWidth="461" frameHeight="648"/>
+	<SubTexture name="danceLeft instância 10002" x="1554" y="1392" width="439" height="645" frameX="-22" frameY="-3" frameWidth="461" frameHeight="648"/>
+	<SubTexture name="danceLeft instância 10003" x="535" y="1393" width="439" height="645" frameX="-22" frameY="-3" frameWidth="461" frameHeight="648"/>
+	<SubTexture name="danceLeft instância 10004" x="2595" y="1401" width="440" height="642" frameX="-21" frameY="-6" frameWidth="461" frameHeight="648"/>
+	<SubTexture name="danceLeft instância 10005" x="27" y="1406" width="440" height="642" frameX="-21" frameY="-6" frameWidth="461" frameHeight="648"/>
+	<SubTexture name="danceLeft instância 10006" x="2094" y="715" width="445" height="644" frameX="-16" frameY="-4" frameWidth="461" frameHeight="648"/>
+	<SubTexture name="danceLeft instância 10007" x="544" y="27" width="460" height="633" frameX="-1" frameY="-15" frameWidth="461" frameHeight="648"/>
+	<SubTexture name="danceLeft instância 10008" x="544" y="27" width="460" height="633" frameX="-1" frameY="-15" frameWidth="461" frameHeight="648"/>
+	<SubTexture name="danceLeft instância 10009" x="1060" y="27" width="460" height="633" frameX="-1" frameY="-15" frameWidth="461" frameHeight="648"/>
+	<SubTexture name="danceLeft instância 10010" x="1576" y="27" width="460" height="632" frameX="-1" frameY="-16" frameWidth="461" frameHeight="648"/>
+	<SubTexture name="danceLeft instância 10011" x="2092" y="27" width="460" height="632" frameX="-1" frameY="-16" frameWidth="461" frameHeight="648"/>
+	<SubTexture name="danceLeft instância 10012" x="2092" y="27" width="460" height="632" frameX="-1" frameY="-16" frameWidth="461" frameHeight="648"/>
+	<SubTexture name="danceLeft instância 10013" x="27" y="27" width="461" height="632" frameX="0" frameY="-16" frameWidth="461" frameHeight="648"/>
+	<SubTexture name="danceLeft instância 10014" x="27" y="27" width="461" height="632" frameX="0" frameY="-16" frameWidth="461" frameHeight="648"/>
+	<SubTexture name="danceRight instância 10000" x="1053" y="716" width="463" height="617" pivotX="25.05" pivotY="218" frameX="0" frameY="-20" frameWidth="463" frameHeight="637"/>
+	<SubTexture name="danceRight instância 10001" x="1053" y="716" width="463" height="617" frameX="0" frameY="-20" frameWidth="463" frameHeight="637"/>
+	<SubTexture name="danceRight instância 10002" x="1576" y="715" width="462" height="621" frameX="-1" frameY="-16" frameWidth="463" frameHeight="637"/>
+	<SubTexture name="danceRight instância 10003" x="535" y="716" width="462" height="621" frameX="-1" frameY="-16" frameWidth="463" frameHeight="637"/>
+	<SubTexture name="danceRight instância 10004" x="3124" y="27" width="461" height="626" frameX="-2" frameY="-11" frameWidth="463" frameHeight="637"/>
+	<SubTexture name="danceRight instância 10005" x="3124" y="709" width="461" height="626" frameX="-2" frameY="-11" frameWidth="463" frameHeight="637"/>
+	<SubTexture name="danceRight instância 10006" x="2608" y="27" width="460" height="628" frameX="-3" frameY="-9" frameWidth="463" frameHeight="637"/>
+	<SubTexture name="danceRight instância 10007" x="2608" y="711" width="455" height="634" frameX="-8" frameY="-3" frameWidth="463" frameHeight="637"/>
+	<SubTexture name="danceRight instância 10008" x="2608" y="711" width="455" height="634" frameX="-8" frameY="-3" frameWidth="463" frameHeight="637"/>
+	<SubTexture name="danceRight instância 10009" x="2608" y="711" width="455" height="634" frameX="-8" frameY="-3" frameWidth="463" frameHeight="637"/>
+	<SubTexture name="danceRight instância 10010" x="27" y="715" width="452" height="635" frameX="-11" frameY="-2" frameWidth="463" frameHeight="637"/>
+	<SubTexture name="danceRight instância 10011" x="27" y="715" width="452" height="635" frameX="-11" frameY="-2" frameWidth="463" frameHeight="637"/>
+	<SubTexture name="danceRight instância 10012" x="27" y="715" width="452" height="635" frameX="-11" frameY="-2" frameWidth="463" frameHeight="637"/>
+	<SubTexture name="danceRight instância 10013" x="1053" y="1389" width="445" height="637" frameX="-18" frameY="0" frameWidth="463" frameHeight="637"/>
+	<SubTexture name="danceRight instância 10014" x="1053" y="1389" width="445" height="637" frameX="-18" frameY="0" frameWidth="463" frameHeight="637"/>
+</TextureAtlas>
