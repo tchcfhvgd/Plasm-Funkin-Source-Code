@@ -1,6 +1,6 @@
 # Plasm Funkin' - TESTDRIVE
 A Friday Night Funkin' Mod based around a ghost girl who's chilling in a park, a rap battle does'nt seem a bad idea, right?
-This mod uses the [Psych Engine](https://github.com/ShadowMario/FNF-PsychEngine) as a base, originally used for the [Mind Games Mod](https://github.com/ShadowMario/FNF-PsychEngine).
+This mod uses the [Psych Engine](https://github.com/ShadowMario/FNF-PsychEngine) as a base, originally used for the [Mind Games Mod](https://gamebanana.com/mods/301107).
 
 ## Credits:
 * NAMELESS - Director and Artist (Character Designer and Amateur Coder)
@@ -18,7 +18,10 @@ _____________________________________
 ### "Ft. Ghost":
   * The main week of the mod, containing three songs with ERECT REMIXES
 ![](https://github.com/NamelessFNF/Plasm-Funkin-Source-Code/blob/main/docs/Menu.jpg)
+
   * A (playable!!) Scrapped song called "Tenacity".
 ![](https://github.com/NamelessFNF/Plasm-Funkin-Source-Code/blob/main/docs/TenacityYY!.jpg)
 
-Enjoy!!
+_____________________________________
+
+# Enjoy!!
