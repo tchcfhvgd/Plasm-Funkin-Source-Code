@@ -1,5 +1,5 @@
 # Plasm Funkin' - TESTDRIVE
-A Friday Night Funkin' Mod based around a ghost girl who's chilling in a park, a rap battle does'nt seem a bad idea, right?
+A Friday Night Funkin' Mod based around a ghost girl who's chilling in a park, a rap battle doesn't seem a bad idea, right?
 This mod uses the [Psych Engine](https://github.com/ShadowMario/FNF-PsychEngine) as a base, originally used for the [Mind Games Mod](https://gamebanana.com/mods/301107).
 
 ## Credits:
