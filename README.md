@@ -11,7 +11,7 @@ This mod uses the [Psych Engine](https://github.com/ShadowMario/FNF-PsychEngine)
 
 ### Special Thanks (shoutout to yall)
 * Anna - Ghost voice actress hell yeah!!!!1
-* Kill, Luka n Júlia - Emotional support
+* Kill, Luka n Florista - Emotional support
 _____________________________________
 
 ## CONTENT OF THE MOD:
