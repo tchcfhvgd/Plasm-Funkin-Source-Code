@@ -7414,14 +7414,194 @@
 				"bpm": 160
 			},
 			{
-				"gfSection": false,
-				"altAnim": false,
 				"typeOfSection": 0,
 				"sectionNotes": [],
-				"bpm": 160,
 				"sectionBeats": 4,
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 160,
 				"changeBPM": false,
 				"mustHitSection": true
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"sectionBeats": 4,
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 160,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"sectionBeats": 4,
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 160,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"sectionBeats": 4,
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 160
+			},
+			{
+				"sectionBeats": 4,
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 160
+			},
+			{
+				"sectionBeats": 4,
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 160
+			},
+			{
+				"sectionBeats": 4,
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 160
+			},
+			{
+				"sectionBeats": 4,
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 160
+			},
+			{
+				"sectionBeats": 4,
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 160
+			},
+			{
+				"sectionBeats": 4,
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 160
+			},
+			{
+				"sectionBeats": 4,
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 160
+			},
+			{
+				"sectionBeats": 4,
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 160
+			},
+			{
+				"sectionBeats": 4,
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 160
+			},
+			{
+				"sectionBeats": 4,
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 160
+			},
+			{
+				"sectionBeats": 4,
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 160
+			},
+			{
+				"sectionBeats": 4,
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 160
+			},
+			{
+				"sectionBeats": 4,
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 160
+			},
+			{
+				"sectionBeats": 4,
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 160
+			},
+			{
+				"sectionBeats": 4,
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 160
 			},
 			{
 				"gfSection": false,
@@ -7449,14 +7629,34 @@
 				12000,
 				[
 					[
-						"Cinematics (With HUD)",
-						"0.3",
-						"90"
+						"Bittos zoom event TJ",
+						"camGame,0.50,0.7",
+						"quadOut"
 					],
 					[
-						"Bitto's zoom event",
-						"custom",
-						"0.75,0.3,quadOut"
+						"Cinematics (With HUD)",
+						"0.7",
+						"90"
+					]
+				]
+			],
+			[
+				22500,
+				[
+					[
+						"Bittos zoom event TJ",
+						"camGame,0.75,1.7",
+						"quadIn"
+					]
+				]
+			],
+			[
+				23812.5,
+				[
+					[
+						"Bittos zoom event TJ",
+						"camGame,0.45,0.7",
+						"quadOut"
 					]
 				]
 			],
@@ -7464,23 +7664,13 @@
 				36000,
 				[
 					[
-						"Bitto's zoom event",
-						"custom",
-						"0.60,0.5,quadOut"
-					],
-					[
-						"Cinematics (With HUD)",
-						"0.5",
-						"45"
-					],
-					[
-						"Change Scroll Speed",
-						"0.5",
-						"0.02"
+						"Bittos zoom event TJ",
+						"camGame,0.75,0.5",
+						"quadIn"
 					],
 					[
 						"Set GF Speed",
-						"0.5",
+						"2",
 						""
 					]
 				]
@@ -7489,14 +7679,19 @@
 				36562.5,
 				[
 					[
-						"Bitto's zoom event",
-						"custom",
-						"0.55,0.5,quadOut"
+						"Bittos zoom event TJ",
+						"camGame,0.55,0.7",
+						"quadOut"
 					],
 					[
 						"Cinematics (With HUD)",
-						"0.5",
+						"0.7",
 						"0"
+					],
+					[
+						"Set GF Speed",
+						"4",
+						""
 					]
 				]
 			],
@@ -7505,18 +7700,23 @@
 				[
 					[
 						"Change Scroll Speed",
-						"1",
-						"0.4"
-					],
-					[
-						"Hey!",
-						"gf",
-						""
+						"0.8",
+						"0.1"
 					]
 				]
 			],
 			[
-				37968.75,
+				37875,
+				[
+					[
+						"Change Scroll Speed",
+						"1.1",
+						"0.4"
+					]
+				]
+			],
+			[
+				39000,
 				[
 					[
 						"Set GF Speed",
@@ -7526,62 +7726,32 @@
 				]
 			],
 			[
-				50812.5,
-				[
-					[
-						"Hey!",
-						"gf",
-						""
-					]
-				]
-			],
-			[
 				63000,
 				[
 					[
-						"Bitto's zoom event",
-						"custom",
-						"0.65,0.3,quadIn"
+						"Change Scroll Speed",
+						"0.9",
+						"0.7"
 					],
 					[
 						"Cinematics (With HUD)",
-						"0.3",
+						"0.7",
 						"90"
 					],
 					[
-						"Hey!",
-						"gf",
-						""
+						"Bittos zoom event TJ",
+						"camGame,0.65,0.7",
+						"quadIn"
 					]
 				]
 			],
 			[
-				86250,
+				75000,
 				[
 					[
-						"Cinematics (With HUD)",
-						"0.3",
-						"45"
-					]
-				]
-			],
-			[
-				86625,
-				[
-					[
-						"Cinematics (With HUD)",
-						"0.3",
-						"0"
-					]
-				]
-			],
-			[
-				87000,
-				[
-					[
-						"Bitto's zoom event",
-						"custom",
-						"0.55,0.3,quadOut"
+						"Change Scroll Speed",
+						"1",
+						"9"
 					]
 				]
 			],
@@ -7589,19 +7759,29 @@
 				93000,
 				[
 					[
-						"Camera Follow Pos",
-						"600",
-						"300"
-					],
-					[
-						"Bitto's zoom event",
-						"custom",
-						"0.45,0.5,quadOut"
+						"Bittos zoom event TJ",
+						"camGame,0.60,0.6",
+						"quadOut"
 					],
 					[
 						"Cinematics (With HUD)",
-						"0.3",
-						"90"
+						"0.6",
+						"25"
+					]
+				]
+			],
+			[
+				97500,
+				[
+					[
+						"Cinematics (With HUD)",
+						"0.7",
+						"0"
+					],
+					[
+						"Bittos zoom event TJ",
+						"camGame,0.55,0.7",
+						"quadOut"
 					]
 				]
 			],
@@ -7609,14 +7789,9 @@
 				99000,
 				[
 					[
-						"Camera Follow Pos",
-						"",
-						""
-					],
-					[
-						"Cinematics (With HUD)",
-						"0.5",
-						"45"
+						"Bittos zoom event TJ",
+						"camGame,0.75,0.4",
+						"quadIn"
 					]
 				]
 			],
@@ -7624,24 +7799,9 @@
 				99562.5,
 				[
 					[
-						"Cinematics (With HUD)",
-						"0.5",
-						"90"
-					]
-				]
-			],
-			[
-				100500,
-				[
-					[
-						"Bitto's zoom event",
-						"custom",
-						"0.65,0.5,quadIn"
-					],
-					[
-						"Hey!",
-						"gf",
-						""
+						"Bittos zoom event TJ",
+						"camGame,0.65,0.7",
+						"quadOut"
 					]
 				]
 			],
@@ -7649,29 +7809,24 @@
 				102000,
 				[
 					[
-						"Bitto's zoom event",
-						"custom",
-						"0.45,0.02,quadOut"
+						"Bittos zoom event TJ",
+						"camGame,0.50,0.4",
+						"quadOut"
+					],
+					[
+						"Cinematics (With HUD)",
+						"0.4",
+						"90"
+					],
+					[
+						"Set GF Speed",
+						"2",
+						""
 					],
 					[
 						"Camera Follow Pos",
-						"600",
+						"750",
 						"300"
-					],
-					[
-						"Cinematics (With HUD)",
-						"0.3",
-						"120"
-					]
-				]
-			],
-			[
-				114000,
-				[
-					[
-						"Cinematics (With HUD)",
-						"0.5",
-						"90"
 					]
 				]
 			],
@@ -7681,62 +7836,117 @@
 					[
 						"Add Camera Zoom",
 						"0.015",
-						"0"
-					],
-					[
-						"Bitto's zoom event",
-						"custom",
-						"0.40,0.3,quadOut"
+						"0.03"
 					]
 				]
 			],
 			[
-				115500,
+				115125,
 				[
 					[
 						"Add Camera Zoom",
 						"0.015",
-						"0"
+						"0.03"
 					]
 				]
 			],
 			[
-				117000,
+				115875,
 				[
 					[
 						"Add Camera Zoom",
 						"0.015",
-						"0"
+						"0.03"
 					]
 				]
 			],
 			[
-				118500,
+				116625,
 				[
 					[
 						"Add Camera Zoom",
 						"0.015",
-						"0"
+						"0.03"
 					]
 				]
 			],
 			[
-				120000,
+				117375,
 				[
 					[
 						"Add Camera Zoom",
 						"0.015",
-						"0"
+						"0.03"
 					]
 				]
 			],
 			[
-				121500,
+				118031.25,
 				[
 					[
 						"Add Camera Zoom",
 						"0.015",
-						"0"
+						"0.03"
+					]
+				]
+			],
+			[
+				118875,
+				[
+					[
+						"Add Camera Zoom",
+						"0.015",
+						"0.03"
+					]
+				]
+			],
+			[
+				119531.25,
+				[
+					[
+						"Add Camera Zoom",
+						"0.015",
+						"0.03"
+					]
+				]
+			],
+			[
+				120375,
+				[
+					[
+						"Add Camera Zoom",
+						"0.015",
+						"0.03"
+					]
+				]
+			],
+			[
+				121031.25,
+				[
+					[
+						"Add Camera Zoom",
+						"0.015",
+						"0.03"
+					]
+				]
+			],
+			[
+				121875,
+				[
+					[
+						"Add Camera Zoom",
+						"0.015",
+						"0.03"
+					]
+				]
+			],
+			[
+				122625,
+				[
+					[
+						"Add Camera Zoom",
+						"0.015",
+						"0.03"
 					]
 				]
 			],
@@ -7745,8 +7955,8 @@
 				[
 					[
 						"Add Camera Zoom",
-						"0.015",
-						"0"
+						"0.05",
+						"0.01"
 					]
 				]
 			],
@@ -7755,8 +7965,8 @@
 				[
 					[
 						"Add Camera Zoom",
-						"0.015",
-						"0"
+						"0.05",
+						"0.01"
 					]
 				]
 			],
@@ -7765,8 +7975,8 @@
 				[
 					[
 						"Add Camera Zoom",
-						"0.015",
-						"0"
+						"0.05",
+						"0.01"
 					]
 				]
 			],
@@ -7775,8 +7985,8 @@
 				[
 					[
 						"Add Camera Zoom",
-						"0.015",
-						"0"
+						"0.05",
+						"0.01"
 					]
 				]
 			],
@@ -7785,8 +7995,8 @@
 				[
 					[
 						"Add Camera Zoom",
-						"0.015",
-						"0"
+						"0.09",
+						"0.01"
 					]
 				]
 			],
@@ -7795,8 +8005,8 @@
 				[
 					[
 						"Add Camera Zoom",
-						"0.015",
-						"0"
+						"0.09",
+						"0.01"
 					]
 				]
 			],
@@ -7805,8 +8015,8 @@
 				[
 					[
 						"Add Camera Zoom",
-						"0.015",
-						"0"
+						"0.09",
+						"0.01"
 					]
 				]
 			],
@@ -7815,8 +8025,8 @@
 				[
 					[
 						"Add Camera Zoom",
-						"0.015",
-						"0"
+						"0.09",
+						"0.01"
 					]
 				]
 			],
@@ -7825,8 +8035,8 @@
 				[
 					[
 						"Add Camera Zoom",
-						"0.015",
-						"0"
+						"0.09",
+						"0.01"
 					]
 				]
 			],
@@ -7835,8 +8045,8 @@
 				[
 					[
 						"Add Camera Zoom",
-						"0.015",
-						"0"
+						"0.09",
+						"0.01"
 					]
 				]
 			],
@@ -7845,8 +8055,8 @@
 				[
 					[
 						"Add Camera Zoom",
-						"0.015",
-						"0"
+						"0.09",
+						"0.01"
 					]
 				]
 			],
@@ -7855,8 +8065,8 @@
 				[
 					[
 						"Add Camera Zoom",
-						"0.015",
-						"0"
+						"0.09",
+						"0.01"
 					]
 				]
 			],
@@ -7864,239 +8074,14 @@
 				126000,
 				[
 					[
-						"Add Camera Zoom",
-						"0.015",
-						"0"
-					]
-				]
-			],
-			[
-				126750,
-				[
+						"Set GF Speed",
+						"1",
+						""
+					],
 					[
-						"Add Camera Zoom",
-						"0.015",
-						"0"
-					]
-				]
-			],
-			[
-				127500,
-				[
-					[
-						"Add Camera Zoom",
-						"0.015",
-						"0"
-					]
-				]
-			],
-			[
-				128250,
-				[
-					[
-						"Add Camera Zoom",
-						"0.015",
-						"0"
-					]
-				]
-			],
-			[
-				129000,
-				[
-					[
-						"Add Camera Zoom",
-						"0.015",
-						"0"
-					]
-				]
-			],
-			[
-				129750,
-				[
-					[
-						"Add Camera Zoom",
-						"0.015",
-						"0"
-					]
-				]
-			],
-			[
-				130500,
-				[
-					[
-						"Add Camera Zoom",
-						"0.015",
-						"0"
-					]
-				]
-			],
-			[
-				131250,
-				[
-					[
-						"Add Camera Zoom",
-						"0.015",
-						"0"
-					]
-				]
-			],
-			[
-				132000,
-				[
-					[
-						"Add Camera Zoom",
-						"0.015",
-						"0"
-					]
-				]
-			],
-			[
-				132750,
-				[
-					[
-						"Add Camera Zoom",
-						"0.015",
-						"0"
-					]
-				]
-			],
-			[
-				133500,
-				[
-					[
-						"Add Camera Zoom",
-						"0.015",
-						"0"
-					]
-				]
-			],
-			[
-				134250,
-				[
-					[
-						"Add Camera Zoom",
-						"0.015",
-						"0"
-					]
-				]
-			],
-			[
-				135000,
-				[
-					[
-						"Add Camera Zoom",
-						"0.015",
-						"0"
-					]
-				]
-			],
-			[
-				135750,
-				[
-					[
-						"Add Camera Zoom",
-						"0.015",
-						"0"
-					]
-				]
-			],
-			[
-				136500,
-				[
-					[
-						"Add Camera Zoom",
-						"0.015",
-						"0"
-					]
-				]
-			],
-			[
-				137250,
-				[
-					[
-						"Add Camera Zoom",
-						"0.015",
-						"0"
-					]
-				]
-			],
-			[
-				138000,
-				[
-					[
-						"Add Camera Zoom",
-						"0.015",
-						"0"
-					]
-				]
-			],
-			[
-				139500,
-				[
-					[
-						"Add Camera Zoom",
-						"0.015",
-						"0"
-					]
-				]
-			],
-			[
-				141000,
-				[
-					[
-						"Add Camera Zoom",
-						"0.015",
-						"0"
-					]
-				]
-			],
-			[
-				142500,
-				[
-					[
-						"Add Camera Zoom",
-						"0.015",
-						"0"
-					]
-				]
-			],
-			[
-				144000,
-				[
-					[
-						"Add Camera Zoom",
-						"0.015",
-						"0"
-					]
-				]
-			],
-			[
-				145500,
-				[
-					[
-						"Add Camera Zoom",
-						"0.015",
-						"0"
-					]
-				]
-			],
-			[
-				147000,
-				[
-					[
-						"Add Camera Zoom",
-						"0.015",
-						"0"
-					]
-				]
-			],
-			[
-				148500,
-				[
-					[
-						"Bitto's zoom event",
-						"0.015",
-						"0"
+						"Camera Follow Pos",
+						"",
+						""
 					]
 				]
 			],
@@ -8104,19 +8089,29 @@
 				150000,
 				[
 					[
-						"Bitto's zoom event",
-						"custom",
-						"0.30,0.5,quadOut"
+						"Bittos zoom event TJ",
+						"camGame,0.40,1.5",
+						"quadOut"
+					],
+					[
+						"Camera Follow Pos",
+						"750",
+						"300"
+					],
+					[
+						"Set GF Speed",
+						"2",
+						""
 					]
 				]
 			],
 			[
-				151968.75,
+				162187.5,
 				[
 					[
-						"Hey!",
-						"both",
-						""
+						"Camera Switch",
+						"0.01",
+						"off"
 					]
 				]
 			]
