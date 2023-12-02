@@ -6802,6 +6802,166 @@
 				"bpm": 200
 			},
 			{
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"sectionBeats": 4,
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"sectionBeats": 4,
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"gfSection": false,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 200,
+				"sectionBeats": 4,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"gfSection": false,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 200,
+				"sectionBeats": 4,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"gfSection": false,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 200,
+				"sectionBeats": 4,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"gfSection": false,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 200,
+				"sectionBeats": 4,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"gfSection": false,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 200,
+				"sectionBeats": 4,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"gfSection": false,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 200,
+				"sectionBeats": 4,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"gfSection": false,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 200,
+				"sectionBeats": 4,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"gfSection": false,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 200,
+				"sectionBeats": 4,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"gfSection": false,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 200,
+				"sectionBeats": 4,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"gfSection": false,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 200,
+				"sectionBeats": 4,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"gfSection": false,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 200,
+				"sectionBeats": 4,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"gfSection": false,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 200,
+				"sectionBeats": 4,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"gfSection": false,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 200,
+				"sectionBeats": 4,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"gfSection": false,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 200,
+				"sectionBeats": 4,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
 				"gfSection": false,
 				"altAnim": false,
 				"typeOfSection": 0,
@@ -6814,7 +6974,107 @@
 		],
 		"events": [
 			[
-				0,
+				7500,
+				[
+					[
+						"Bittos zoom event TJ",
+						"camGame,0.80,2",
+						"quadIn"
+					]
+				]
+			],
+			[
+				9600,
+				[
+					[
+						"Bittos zoom event TJ",
+						"camGame,0.50,0.3",
+						"quadOut"
+					],
+					[
+						"Cinematics (With HUD)",
+						"0.3",
+						"90"
+					]
+				]
+			],
+			[
+				27600,
+				[
+					[
+						"Bittos zoom event TJ",
+						"camGame,0.65,1.5",
+						"quadIn"
+					]
+				]
+			],
+			[
+				28800,
+				[
+					[
+						"Cinematics (With HUD)",
+						"0.7",
+						"0"
+					]
+				]
+			],
+			[
+				45600,
+				[
+					[
+						"Bittos zoom event TJ",
+						"camGame,0.80,3",
+						"quadIn"
+					]
+				]
+			],
+			[
+				48000,
+				[
+					[
+						"Bittos zoom event TJ",
+						"camGame,0.50,3",
+						"quadOut"
+					],
+					[
+						"Cinematics (With HUD)",
+						"0.3",
+						"90"
+					]
+				]
+			],
+			[
+				49200,
+				[
+					[
+						"Cinematics (With HUD)",
+						"0.3",
+						"25"
+					]
+				]
+			],
+			[
+				49650,
+				[
+					[
+						"Cinematics (With HUD)",
+						"0.3",
+						"115"
+					]
+				]
+			],
+			[
+				50100,
+				[
+					[
+						"Cinematics (With HUD)",
+						"0.3",
+						"25"
+					]
+				]
+			],
+			[
+				50400,
 				[
 					[
 						"Cinematics (With HUD)",
@@ -6824,32 +7084,62 @@
 				]
 			],
 			[
-				28800,
+				52800,
 				[
 					[
 						"Cinematics (With HUD)",
-						"0.5",
-						"0"
-					],
-					[
-						"Hey!",
-						"gf",
-						""
+						"0.3",
+						"25"
 					]
 				]
 			],
 			[
-				48000,
+				54000,
 				[
 					[
 						"Cinematics (With HUD)",
-						"0.5",
-						"90"
-					],
+						"0.3",
+						"55"
+					]
+				]
+			],
+			[
+				54300,
+				[
 					[
-						"Hey!",
-						"gf",
-						""
+						"Cinematics (With HUD)",
+						"0.3",
+						"75"
+					]
+				]
+			],
+			[
+				54600,
+				[
+					[
+						"Cinematics (With HUD)",
+						"0.3",
+						"90"
+					]
+				]
+			],
+			[
+				54900,
+				[
+					[
+						"Cinematics (With HUD)",
+						"0.3",
+						"115"
+					]
+				]
+			],
+			[
+				55200,
+				[
+					[
+						"Cinematics (With HUD)",
+						"0.7",
+						"90"
 					]
 				]
 			],
@@ -6857,14 +7147,19 @@
 				67200,
 				[
 					[
-						"Cinematics (With HUD)",
-						"0.5",
-						"45"
+						"Bittos zoom event TJ",
+						"camGame,0.65,0.3",
+						"quadIn"
 					],
 					[
-						"Hey!",
-						"gf",
-						""
+						"Cinematics (With HUD)",
+						"0.3",
+						"0"
+					],
+					[
+						"Camera Follow Pos",
+						"750",
+						"300"
 					]
 				]
 			],
@@ -6872,9 +7167,19 @@
 				76800,
 				[
 					[
-						"Cinematics (With HUD)",
-						"0.5",
-						"0"
+						"Bittos zoom event TJ",
+						"camGame,0.60,0.7",
+						"quadOut"
+					]
+				]
+			],
+			[
+				81600,
+				[
+					[
+						"Camera Follow Pos",
+						"",
+						""
 					]
 				]
 			],
@@ -6882,14 +7187,9 @@
 				85200,
 				[
 					[
-						"Bitto's zoom event",
-						"custom",
-						"0.90,0.3,quadIn"
-					],
-					[
-						"Hey!",
-						"gf",
-						""
+						"Bittos zoom event TJ",
+						"camGame,0.75,0.2",
+						"quadIn"
 					]
 				]
 			],
@@ -6897,9 +7197,9 @@
 				85800,
 				[
 					[
-						"Bitto's zoom event",
-						"custom",
-						"0.65,0.7,quadIn"
+						"Bittos zoom event TJ",
+						"camGame,0.70,0.5",
+						"quadInOut"
 					]
 				]
 			],
@@ -6907,9 +7207,9 @@
 				86400,
 				[
 					[
-						"Cinematics (With HUD)",
-						"0.5",
-						"90"
+						"Bittos zoom event TJ",
+						"camGame,0.65,0.5",
+						"quadOut"
 					]
 				]
 			],
@@ -6917,19 +7217,49 @@
 				96000,
 				[
 					[
+						"Bittos zoom event TJ",
+						"camGame,0.50,0.3",
+						"quadOut"
+					],
+					[
 						"Cinematics (With HUD)",
-						"1",
-						"45"
+						"0.7",
+						"25"
 					]
 				]
 			],
 			[
-				104400,
+				98400,
 				[
 					[
 						"Cinematics (With HUD)",
+						"0.7",
+						"90"
+					]
+				]
+			],
+			[
+				100800,
+				[
+					[
+						"Cinematics (With HUD)",
+						"0.7",
+						"115"
+					]
+				]
+			],
+			[
+				103200,
+				[
+					[
+						"Bittos zoom event TJ",
+						"camGame,0.65,1.5",
+						"quadIn"
+					],
+					[
+						"Cinematics (With HUD)",
 						"1.5",
-						"0"
+						"25"
 					]
 				]
 			],
@@ -6937,9 +7267,14 @@
 				105600,
 				[
 					[
-						"Hey!",
-						"gf",
-						""
+						"Bittos zoom event TJ",
+						"camGame,0.75,0.3",
+						"quadIn"
+					],
+					[
+						"Cinematics (With HUD)",
+						"0.3",
+						"0"
 					]
 				]
 			],
@@ -6947,14 +7282,19 @@
 				134400,
 				[
 					[
-						"Bitto's zoom event",
-						"custom",
-						"0.55,1,quadOut"
-					],
+						"Bittos zoom event TJ",
+						"camGame,0.55,2",
+						"quadOutIn"
+					]
+				]
+			],
+			[
+				135600,
+				[
 					[
 						"Hey!",
-						"gf",
-						"1"
+						"both",
+						"0.7"
 					]
 				]
 			]
