@@ -8,148 +8,138 @@
 				[
 					[
 						"Camera Switch",
-						"0.01",
+						"0.001",
 						"off"
 					],
 					[
-						"Set GF Speed",
-						"4",
-						""
+						"Bittos zoom event TJ",
+						"camGame,0.50,0.01",
+						"quadIn"
 					]
 				]
 			],
 			[
-				175,
+				150,
 				[
 					[
 						"Camera Switch",
-						"0.01",
+						"0.001",
 						"on"
 					]
 				]
 			],
 			[
-				400,
+				337.5,
 				[
 					[
 						"Camera Switch",
-						"0.01",
+						"0.001",
 						"off"
 					]
 				]
 			],
 			[
-				575,
+				525,
 				[
 					[
 						"Camera Switch",
-						"0.01",
+						"0.001",
 						"on"
 					]
 				]
 			],
 			[
-				775,
+				787.5,
 				[
 					[
 						"Camera Switch",
-						"0.01",
+						"0.001",
 						"off"
-					],
-					[
-						"Change Scroll Speed",
-						"0.9",
-						"0.01"
 					]
 				]
 			],
 			[
-				825,
+				862.5,
 				[
 					[
 						"Camera Switch",
-						"0.01",
+						"0.001",
 						"on"
 					]
 				]
 			],
 			[
-				900,
+				937.5,
 				[
 					[
 						"Camera Switch",
-						"0.01",
+						"0.001",
 						"off"
-					],
-					[
-						"Change Scroll Speed",
-						"0.8",
-						"0.01"
 					]
 				]
 			],
 			[
-				950,
+				975,
 				[
 					[
 						"Camera Switch",
-						"0.01",
+						"0.001",
 						"on"
 					]
 				]
 			],
 			[
-				1025,
+				1012.5,
 				[
 					[
 						"Camera Switch",
-						"0.01",
+						"0.001",
 						"off"
+					]
+				]
+			],
+			[
+				1050,
+				[
+					[
+						"Camera Switch",
+						"0.001",
+						"on"
+					]
+				]
+			],
+			[
+				1087.5,
+				[
+					[
+						"Camera Switch",
+						"0.001",
+						"off"
+					]
+				]
+			],
+			[
+				1125,
+				[
+					[
+						"Camera Switch",
+						"0.001",
+						"off"
+					]
+				]
+			],
+			[
+				1162.5,
+				[
+					[
+						"Camera Switch",
+						"0.001",
+						"on"
 					],
 					[
-						"Change Scroll Speed",
+						"Cinematics (With HUD)",
 						"0.7",
-						"0.01"
-					]
-				]
-			],
-			[
-				1075,
-				[
-					[
-						"Camera Switch",
-						"0.01",
-						"on"
-					]
-				]
-			],
-			[
-				1150,
-				[
-					[
-						"Camera Switch",
-						"0.01",
-						"off"
-					],
-					[
-						"Change Scroll Speed",
-						"0.6",
-						"0.01"
-					]
-				]
-			],
-			[
-				1200,
-				[
-					[
-						"Camera Switch",
-						"0.01",
-						"on"
-					],
-					[
-						"Set GF Speed",
-						"1",
-						""
+						"90"
 					]
 				]
 			],
@@ -167,9 +157,9 @@
 				10500,
 				[
 					[
-						"Bitto's zoom event",
-						"custom",
-						"0.85,0.25,quadIn"
+						"Bittos zoom event TJ",
+						"camGame,0.70,0.4",
+						"quadIn"
 					]
 				]
 			],
@@ -177,19 +167,19 @@
 				10800,
 				[
 					[
-						"Bitto's zoom event",
-						"custom",
-						"0.65,0.5,quadOut"
+						"Bittos zoom event TJ",
+						"camGame,0.50,0.3",
+						"quadInOut"
 					]
 				]
 			],
 			[
-				20100,
+				19800,
 				[
 					[
-						"Bitto's zoom event",
-						"custom",
-						"0.50,0.25,quadIn"
+						"Bittos zoom event TJ",
+						"camGame,0.65,0.7",
+						"quadIn"
 					]
 				]
 			],
@@ -197,9 +187,9 @@
 				20400,
 				[
 					[
-						"Bitto's zoom event",
-						"custom",
-						"0.65,0.25,quadOut"
+						"Bittos zoom event TJ",
+						"camGame,0.80,0.3",
+						"quadInOut"
 					]
 				]
 			],
@@ -207,14 +197,14 @@
 				30000,
 				[
 					[
-						"Cinematics (With HUD)",
-						"0.5",
-						"120"
+						"Bittos zoom event TJ",
+						"camGame,0.55,1.5",
+						"quadInOut"
 					],
 					[
-						"Hey!",
-						"gf",
-						""
+						"Cinematics (With HUD)",
+						"0.5",
+						"0"
 					]
 				]
 			],
@@ -224,12 +214,7 @@
 					[
 						"Add Camera Zoom",
 						"0.5",
-						"0.04"
-					],
-					[
-						"Cinematics (With HUD)",
-						"0.2",
-						"90"
+						"0.01"
 					]
 				]
 			],
@@ -239,12 +224,7 @@
 					[
 						"Add Camera Zoom",
 						"0.5",
-						"0.04"
-					],
-					[
-						"Cinematics (With HUD)",
-						"0.2",
-						"45"
+						"0.01"
 					]
 				]
 			],
@@ -254,12 +234,7 @@
 					[
 						"Add Camera Zoom",
 						"0.5",
-						"0.04"
-					],
-					[
-						"Cinematics (With HUD)",
-						"0.2",
-						"0"
+						"0.01"
 					]
 				]
 			],
@@ -269,7 +244,7 @@
 					[
 						"Add Camera Zoom",
 						"0.5",
-						"0.04"
+						"0.01"
 					]
 				]
 			],
@@ -279,7 +254,7 @@
 					[
 						"Add Camera Zoom",
 						"0.5",
-						"0.04"
+						"0.01"
 					]
 				]
 			],
@@ -289,7 +264,7 @@
 					[
 						"Add Camera Zoom",
 						"0.5",
-						"0.04"
+						"0.01"
 					]
 				]
 			],
@@ -299,7 +274,7 @@
 					[
 						"Add Camera Zoom",
 						"0.5",
-						"0.04"
+						"0.01"
 					]
 				]
 			],
@@ -309,7 +284,7 @@
 					[
 						"Add Camera Zoom",
 						"0.5",
-						"0.04"
+						"0.01"
 					]
 				]
 			],
@@ -319,7 +294,7 @@
 					[
 						"Add Camera Zoom",
 						"0.5",
-						"0.04"
+						"0.01"
 					]
 				]
 			],
@@ -329,7 +304,7 @@
 					[
 						"Add Camera Zoom",
 						"0.5",
-						"0.04"
+						"0.01"
 					]
 				]
 			],
@@ -339,7 +314,7 @@
 					[
 						"Add Camera Zoom",
 						"0.5",
-						"0.04"
+						"0.01"
 					]
 				]
 			],
@@ -349,7 +324,7 @@
 					[
 						"Add Camera Zoom",
 						"0.5",
-						"0.04"
+						"0.01"
 					]
 				]
 			],
@@ -357,19 +332,14 @@
 				49200,
 				[
 					[
+						"Bittos zoom event TJ",
+						"camGame,0.85,0.1",
+						"quadIn"
+					],
+					[
 						"Cinematics (With HUD)",
-						"0.3",
-						"45"
-					],
-					[
-						"Bitto's zoom event",
-						"custom",
-						"0.85,0.02,quadIn"
-					],
-					[
-						"Hey!",
-						"gf",
-						""
+						"0.1",
+						"25"
 					]
 				]
 			],
@@ -377,13 +347,108 @@
 				49500,
 				[
 					[
-						"Bitto's zoom event",
-						"custom",
-						"0.65,0.2,quadOut"
+						"Cinematics (With HUD)",
+						"0.3",
+						"90"
+					],
+					[
+						"Bittos zoom event TJ",
+						"camGame,0.75,0.3",
+						"quadIn"
+					]
+				]
+			],
+			[
+				51600,
+				[
+					[
+						"Cinematics (With HUD)",
+						"0.3",
+						"135"
+					],
+					[
+						"Bittos zoom event TJ",
+						"camGame,0.80,0.3",
+						"quadIn"
+					]
+				]
+			],
+			[
+				52200,
+				[
+					[
+						"Bittos zoom event TJ",
+						"camGame,0.85,0.3",
+						"quadIn"
 					],
 					[
 						"Cinematics (With HUD)",
-						"0.2",
+						"0.3",
+						"160"
+					]
+				]
+			],
+			[
+				54000,
+				[
+					[
+						"Cinematics (With HUD)",
+						"0.3",
+						"90"
+					],
+					[
+						"Bittos zoom event TJ",
+						"camGame,0.80,0.3",
+						"quadOut"
+					]
+				]
+			],
+			[
+				58800,
+				[
+					[
+						"Bittos zoom event TJ",
+						"camGame,0.70,0.3",
+						"quadOut"
+					]
+				]
+			],
+			[
+				59850,
+				[
+					[
+						"Bittos zoom event TJ",
+						"camGame,0.65,0.3",
+						"quadOut"
+					]
+				]
+			],
+			[
+				61800,
+				[
+					[
+						"Cinematics (With HUD)",
+						"0.3",
+						"135"
+					]
+				]
+			],
+			[
+				63600,
+				[
+					[
+						"Cinematics (With HUD)",
+						"0.4",
+						"25"
+					]
+				]
+			],
+			[
+				65850,
+				[
+					[
+						"Cinematics (With HUD)",
+						"0.7",
 						"90"
 					]
 				]
@@ -393,8 +458,8 @@
 				[
 					[
 						"Cinematics (With HUD)",
-						"0.5",
-						"90"
+						"0.7",
+						"25"
 					]
 				]
 			],
@@ -403,8 +468,13 @@
 				[
 					[
 						"Cinematics (With HUD)",
-						"0.5",
-						"45"
+						"0.7",
+						"90"
+					],
+					[
+						"Bittos zoom event TJ",
+						"camGame,0.55,0.7",
+						"quadInOut"
 					]
 				]
 			],
@@ -412,9 +482,19 @@
 				68400,
 				[
 					[
-						"Cinematics (With HUD)",
-						"0.3",
-						"0"
+						"Camera Follow Pos",
+						"750",
+						"300"
+					]
+				]
+			],
+			[
+				82800,
+				[
+					[
+						"Camera Follow Pos",
+						"",
+						""
 					]
 				]
 			],
@@ -422,19 +502,19 @@
 				86400,
 				[
 					[
-						"Bitto's zoom event",
-						"custom",
-						"0.90,0.02,quadIn"
+						"Bittos zoom event TJ",
+						"camGame,0.86,0.3",
+						"quadIn"
 					],
 					[
 						"Change Scroll Speed",
-						"0.9",
-						"0.02"
+						"0.8",
+						"0.3"
 					],
 					[
-						"Set GF Speed",
-						"3",
-						" "
+						"Cinematics (With HUD)",
+						"0.1",
+						"25"
 					]
 				]
 			],
@@ -444,7 +524,12 @@
 					[
 						"Change Scroll Speed",
 						"1",
-						"0.5"
+						"0.7"
+					],
+					[
+						"Bittos zoom event TJ",
+						"camGame,0.70,0.7",
+						"quadOut"
 					]
 				]
 			],
@@ -452,24 +537,14 @@
 				87600,
 				[
 					[
-						"Bitto's zoom event",
-						"custom",
-						"0.65,0.5,quadOut"
+						"Bittos zoom event TJ",
+						"camGame,0.60,0.3",
+						"quadOut"
 					],
 					[
 						"Cinematics (With HUD)",
 						"0.3",
-						"90"
-					],
-					[
-						"Set GF Speed",
-						"1",
-						""
-					],
-					[
-						"Hey!",
-						"gf",
-						""
+						"0"
 					]
 				]
 			],
@@ -477,9 +552,9 @@
 				97200,
 				[
 					[
-						"Set GF Speed",
-						"0.5",
-						""
+						"Bittos zoom event TJ",
+						"camGame,0.50,0.3",
+						"quadOut"
 					]
 				]
 			],
@@ -487,9 +562,9 @@
 				106800,
 				[
 					[
-						"Cinematics (With HUD)",
-						"0.3",
-						"105"
+						"Bittos zoom event TJ",
+						"camGame,0.75,0.3",
+						"quadIn"
 					]
 				]
 			],
@@ -497,9 +572,9 @@
 				107100,
 				[
 					[
-						"Cinematics (With HUD)",
-						"0.3",
-						"120"
+						"Bittos zoom event TJ",
+						"camGame,0.65,0.3",
+						"quadIn"
 					]
 				]
 			],
@@ -507,14 +582,14 @@
 				109200,
 				[
 					[
-						"Cinematics (With HUD)",
-						"0.3",
-						"90"
+						"Bittos zoom event TJ",
+						"camGame,0.75,0.3",
+						"quadIn"
 					],
 					[
-						"Bitto's zoom event",
-						"custom",
-						"0.75,0.5,quadIn"
+						"Cinematics (With HUD)",
+						"0.3",
+						"25"
 					]
 				]
 			],
@@ -522,19 +597,14 @@
 				109800,
 				[
 					[
-						"Bitto's zoom event",
-						"custom",
-						"0.85,0.5,quadIn"
-					]
-				]
-			],
-			[
-				110400,
-				[
+						"Cinematics (With HUD)",
+						"0.3",
+						"90"
+					],
 					[
-						"Bitto's zoom event",
-						"custom",
-						"0.75,0.5,quadIn"
+						"Bittos zoom event TJ",
+						"camGame,0.85,0.3",
+						"quadIn"
 					]
 				]
 			],
@@ -542,14 +612,9 @@
 				111600,
 				[
 					[
-						"Cinematics (With HUD)",
-						"0.3",
-						"45"
-					],
-					[
-						"Bitto's zoom event",
-						"custom",
-						"0.85,0.5,quadIn"
+						"Bittos zoom event TJ",
+						"camGame,0.75,0.5",
+						"quadOut"
 					]
 				]
 			],
@@ -557,14 +622,19 @@
 				116400,
 				[
 					[
-						"Cinematics (With HUD)",
-						"0.3",
-						"90"
-					],
+						"Bittos zoom event TJ",
+						"camGame,0.65,0.3",
+						"quadOut"
+					]
+				]
+			],
+			[
+				121200,
+				[
 					[
-						"Bitto's zoom event",
-						"custom",
-						"0.65,0.02,quadOut"
+						"Bittos zoom event TJ",
+						"camGame,0.55,0.3",
+						"quadOut"
 					]
 				]
 			],
@@ -572,49 +642,24 @@
 				126000,
 				[
 					[
-						"Cinematics (With HUD)",
-						"0.6",
-						"45"
-					],
-					[
-						"Set GF Speed",
-						"1",
-						""
-					],
-					[
-						"Hey!",
-						"gf",
-						""
+						"Bittos zoom event TJ",
+						"camGame,0.75,1.5",
+						"quadIn"
 					]
 				]
 			],
 			[
-				126375,
+				135600,
 				[
 					[
-						"Cinematics (With HUD)",
-						"0.6",
-						"20"
-					]
-				]
-			],
-			[
-				126825,
-				[
+						"Bittos zoom event TJ",
+						"camGame,0.55,1.5",
+						"quadOut"
+					],
 					[
 						"Cinematics (With HUD)",
-						"0.6",
+						"1.5",
 						"0"
-					]
-				]
-			],
-			[
-				131850,
-				[
-					[
-						"Hey!",
-						"gf",
-						""
 					]
 				]
 			],
@@ -624,12 +669,17 @@
 					[
 						"Hey!",
 						"both",
-						""
-					],
+						"0.3"
+					]
+				]
+			],
+			[
+				136950,
+				[
 					[
-						"Hud Fade",
-						"0.4",
-						"0"
+						"Camera Switch",
+						"0.1",
+						"off"
 					]
 				]
 			]
@@ -1853,22 +1903,47 @@
 				"sectionNotes": [
 					[
 						22800,
-						0,
+						4,
 						0
 					],
 					[
 						22950,
-						1,
+						5,
 						0
 					],
 					[
 						23100,
-						3,
+						7,
 						0
 					],
 					[
 						23250,
-						2,
+						6,
+						0
+					],
+					[
+						23400,
+						7,
+						0
+					],
+					[
+						23550,
+						5,
+						0
+					],
+					[
+						23700,
+						6,
+						225
+					],
+					[
+						22800,
+						1,
+						525
+					],
+					[
+						22800,
+						3,
 						0
 					],
 					[
@@ -1882,40 +1957,15 @@
 						0
 					],
 					[
-						23700,
-						2,
-						225
-					],
-					[
-						22800,
-						5,
-						525
-					],
-					[
-						22800,
-						7,
-						0
-					],
-					[
-						23400,
-						7,
-						0
-					],
-					[
-						23550,
-						5,
-						0
-					],
-					[
 						23850,
-						4,
+						0,
 						225
 					]
 				],
 				"typeOfSection": 0,
 				"gfSection": false,
 				"altAnim": false,
-				"mustHitSection": true,
+				"mustHitSection": false,
 				"changeBPM": false,
 				"bpm": 200
 			},
@@ -1924,99 +1974,99 @@
 				"sectionNotes": [
 					[
 						24000,
-						1,
-						0
-					],
-					[
-						24150,
-						0,
-						0
-					],
-					[
-						24300,
-						1,
-						0
-					],
-					[
-						24450,
-						3,
-						0
-					],
-					[
-						24600,
-						1,
-						0
-					],
-					[
-						24750,
-						2,
-						0
-					],
-					[
-						24900,
-						0,
-						0
-					],
-					[
-						25050,
-						2,
-						0
-					],
-					[
-						24150,
-						4,
-						0
-					],
-					[
-						24300,
-						7,
-						0
-					],
-					[
-						24225,
-						6,
-						0
-					],
-					[
-						24450,
-						6,
-						0
-					],
-					[
-						24525,
-						4,
-						0
-					],
-					[
-						24600,
-						6,
-						0
-					],
-					[
-						24750,
-						7,
-						0
-					],
-					[
-						24825,
 						5,
 						0
 					],
 					[
+						24150,
+						4,
+						0
+					],
+					[
+						24300,
+						5,
+						0
+					],
+					[
+						24450,
+						7,
+						0
+					],
+					[
+						24600,
+						5,
+						0
+					],
+					[
+						24750,
+						6,
+						0
+					],
+					[
 						24900,
 						4,
 						0
 					],
 					[
 						25050,
-						7,
+						6,
+						0
+					],
+					[
+						24150,
+						0,
+						0
+					],
+					[
+						24300,
+						3,
+						0
+					],
+					[
+						24225,
+						2,
+						0
+					],
+					[
+						24450,
+						2,
+						0
+					],
+					[
+						24525,
+						0,
+						0
+					],
+					[
+						24600,
+						2,
+						0
+					],
+					[
+						24750,
+						3,
+						0
+					],
+					[
+						24825,
+						1,
+						0
+					],
+					[
+						24900,
+						0,
+						0
+					],
+					[
+						25050,
+						3,
 						0
 					]
 				],
 				"typeOfSection": 0,
 				"gfSection": false,
 				"altAnim": false,
-				"mustHitSection": true,
+				"mustHitSection": false,
 				"changeBPM": false,
 				"bpm": 200
 			},
@@ -2212,64 +2262,64 @@
 				"sectionNotes": [
 					[
 						27600,
-						5,
+						1,
 						675
 					],
 					[
 						28050,
-						2,
+						6,
 						0
 					],
 					[
 						28500,
-						5,
+						1,
 						0
 					],
 					[
 						27600,
-						1,
+						5,
 						0
 					],
 					[
 						27900,
-						1,
+						5,
 						0
 					],
 					[
 						28350,
-						3,
+						7,
 						0
 					],
 					[
 						28500,
-						0,
+						4,
 						0
 					],
 					[
 						28650,
-						2,
+						6,
 						0
 					],
 					[
 						27750,
-						3,
+						7,
 						0
 					],
 					[
 						28200,
-						0,
+						4,
 						0
 					],
 					[
 						28275,
-						0,
+						4,
 						0
 					]
 				],
 				"typeOfSection": 0,
 				"gfSection": false,
 				"altAnim": false,
-				"mustHitSection": true,
+				"mustHitSection": false,
 				"changeBPM": false,
 				"bpm": 200
 			},
@@ -4203,32 +4253,22 @@
 				"sectionNotes": [
 					[
 						64800,
-						1,
+						5,
 						0
 					],
 					[
 						64950,
-						3,
+						7,
 						0
 					],
 					[
 						65100,
-						1,
+						5,
 						0
 					],
 					[
 						65250,
-						3,
-						0
-					],
-					[
-						65400,
-						1,
-						0
-					],
-					[
-						65550,
-						3,
+						7,
 						0
 					],
 					[
@@ -4237,63 +4277,73 @@
 						0
 					],
 					[
-						65475,
-						6,
-						0
-					],
-					[
 						65550,
 						7,
 						0
 					],
 					[
-						65625,
-						6,
-						0
-					],
-					[
-						65700,
-						4,
-						0
-					],
-					[
-						65700,
+						65400,
 						1,
+						0
+					],
+					[
+						65475,
+						2,
+						0
+					],
+					[
+						65550,
+						3,
+						0
+					],
+					[
+						65625,
+						2,
+						0
+					],
+					[
+						65700,
+						0,
+						0
+					],
+					[
+						65700,
+						5,
 						0
 					],
 					[
 						65775,
-						1,
+						5,
 						0
 					],
 					[
 						65850,
-						0,
+						4,
 						675
 					],
 					[
 						64800,
-						6,
+						2,
 						0
 					],
 					[
 						64950,
-						4,
+						0,
 						0
 					],
 					[
 						65100,
-						6,
+						2,
 						0
 					],
 					[
 						65250,
-						4,
+						0,
 						0
 					],
 					[
 						65850,
-						7,
+						3,
 						225
 					]
 				],
@@ -4302,49 +4352,49 @@
 				"gfSection": false,
 				"bpm": 200,
 				"changeBPM": false,
-				"mustHitSection": true
+				"mustHitSection": false
 			},
 			{
 				"typeOfSection": 0,
 				"sectionNotes": [
 					[
 						66150,
-						5,
+						1,
 						0
 					],
 					[
 						66300,
-						7,
+						3,
 						225
 					],
 					[
 						66600,
-						2,
+						6,
 						225
 					],
 					[
 						66900,
-						3,
+						7,
 						0
 					],
 					[
 						67050,
-						0,
-						0
-					],
-					[
-						66600,
-						5,
-						0
-					],
-					[
-						66750,
 						4,
 						0
 					],
 					[
+						66600,
+						1,
+						0
+					],
+					[
+						66750,
+						0,
+						0
+					],
+					[
 						67050,
-						7,
+						3,
 						0
 					]
 				],
@@ -4353,7 +4403,7 @@
 				"gfSection": false,
 				"bpm": 200,
 				"changeBPM": false,
-				"mustHitSection": true
+				"mustHitSection": false
 			},
 			{
 				"typeOfSection": 0,
@@ -8829,64 +8879,404 @@
 				"bpm": 200
 			},
 			{
-				"gfSection": false,
-				"altAnim": false,
 				"typeOfSection": 0,
 				"sectionNotes": [],
-				"bpm": 200,
 				"sectionBeats": 4,
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 200,
 				"changeBPM": false,
 				"mustHitSection": true
 			},
 			{
-				"gfSection": false,
-				"altAnim": false,
 				"typeOfSection": 0,
 				"sectionNotes": [],
-				"bpm": 200,
 				"sectionBeats": 4,
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 200,
 				"changeBPM": false,
 				"mustHitSection": true
 			},
 			{
-				"gfSection": false,
-				"altAnim": false,
 				"typeOfSection": 0,
 				"sectionNotes": [],
-				"bpm": 200,
 				"sectionBeats": 4,
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 200,
 				"changeBPM": false,
 				"mustHitSection": true
 			},
 			{
-				"gfSection": false,
-				"altAnim": false,
 				"typeOfSection": 0,
 				"sectionNotes": [],
-				"bpm": 200,
 				"sectionBeats": 4,
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 200,
 				"changeBPM": false,
 				"mustHitSection": true
 			},
 			{
-				"gfSection": false,
-				"altAnim": false,
 				"typeOfSection": 0,
 				"sectionNotes": [],
-				"bpm": 200,
 				"sectionBeats": 4,
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 200,
 				"changeBPM": false,
 				"mustHitSection": true
 			},
 			{
-				"gfSection": false,
-				"altAnim": false,
 				"typeOfSection": 0,
 				"sectionNotes": [],
-				"bpm": 200,
 				"sectionBeats": 4,
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 200,
 				"changeBPM": false,
 				"mustHitSection": true
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"sectionBeats": 4,
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"sectionBeats": 4,
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"sectionBeats": 4,
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"sectionBeats": 4,
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"sectionBeats": 4,
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"sectionBeats": 4,
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionBeats": 4,
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionBeats": 4,
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionBeats": 4,
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionBeats": 4,
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionBeats": 4,
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionBeats": 4,
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionBeats": 4,
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionBeats": 4,
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionBeats": 4,
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionBeats": 4,
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionBeats": 4,
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionBeats": 4,
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionBeats": 4,
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionBeats": 4,
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionBeats": 4,
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionBeats": 4,
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionBeats": 4,
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionBeats": 4,
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionBeats": 4,
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionBeats": 4,
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionBeats": 4,
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionBeats": 4,
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionBeats": 4,
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionBeats": 4,
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionBeats": 4,
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionBeats": 4,
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionBeats": 4,
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionBeats": 4,
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 200
 			},
 			{
 				"gfSection": false,
