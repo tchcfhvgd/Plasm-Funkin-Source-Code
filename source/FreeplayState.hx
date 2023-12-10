@@ -471,8 +471,12 @@ class FreeplayState extends MusicBeatState
 			intendedScore = Highscore.getScore(songs[curSelected].songName + ' ERECT', curDifficulty);
 			intendedRating = Highscore.getRating(songs[curSelected].songName + ' ERECT', curDifficulty);
 		}
+		if (songs[curSelected].songName == 'Sunrise')  {
+			intendedScore = Highscore.getScore(songs[curSelected].songName + ' ERECT', curDifficulty);
+			intendedRating = Highscore.getRating(songs[curSelected].songName + ' ERECT', curDifficulty);
+		}
 		#end
-
+			
 		lastDifficultyName = CoolUtil.difficulties[curDifficulty];
 
 		PlayState.storyDifficulty = curDifficulty;
