@@ -1227,6 +1227,66 @@ class PlayState extends MusicBeatState
 		{
 			switch (daSong)
 			{
+				case "translucid":
+					var blackScreen:FlxSprite = new FlxSprite(-750, -400).makeGraphic(Std.int(FlxG.width * 4), Std.int(FlxG.height * 4), FlxColor.BLACK);
+					add(blackScreen);
+					blackScreen.scrollFactor.set();
+					camHUD.alpha = 0;
+					inCutscene = true;
+
+					snapCamFollowToPos(750, 300);
+					FlxG.camera.focusOn(camFollow);
+					FlxG.camera.zoom = 0.50;
+
+					new FlxTimer().start(1.9, function(tmr:FlxTimer)
+						{
+							FlxTween.tween(blackScreen, {alpha: 0}, 1.5, {
+								ease: FlxEase.linear,
+								onComplete: function(twn:FlxTween) {
+									
+									remove(blackScreen);
+								}
+							});
+
+							FlxTween.tween(FlxG.camera, {zoom: defaultCamZoom}, 0.4, {
+								ease: FlxEase.quadInOut,
+								onStart: function(twn:FlxTween) {
+									FlxTween.tween(camHUD, {alpha : 1}, 0.4, {ease: FlxEase.linear});
+								}
+							});
+							startCountdown();
+						});
+
+				case "translucid-erect":
+					snapCamFollowToPos(750, 300);
+					FlxG.camera.focusOn(camFollow);
+					FlxG.camera.zoom = 0.50;
+					startCountdown();
+
+				case "exorcism-erect":
+					var blackScreen:FlxSprite = new FlxSprite(-750,-400).makeGraphic(Std.int(FlxG.width * 4), Std.int(FlxG.height * 4), FlxColor.BLACK);
+					add(blackScreen);
+					blackScreen.scrollFactor.set();
+					snapCamFollowToPos(750, 300);
+					FlxG.camera.focusOn(camFollow);
+					FlxG.camera.zoom = 0.50;
+					camHUD.alpha = 0;
+					inCutscene = true;
+					
+					startCountdown();
+					new FlxTimer().start(8, function(tmr:FlxTimer)
+						{
+							FlxTween.tween(blackScreen, {alpha : 0}, 7, {
+								ease: FlxEase.linear,
+								onComplete: function(twn:FlxTween) {
+									remove(blackScreen);
+
+								}, onStart: function(twn:FlxTween) {
+										FlxTween.tween(camHUD, {alpha : 1}, 7, {ease: FlxEase.linear});
+									}
+							});
+						});
+
 				case "monster":
 					var whiteScreen:FlxSprite = new FlxSprite(0, 0).makeGraphic(Std.int(FlxG.width * 2), Std.int(FlxG.height * 2), FlxColor.WHITE);
 					add(whiteScreen);
@@ -1293,7 +1353,7 @@ class PlayState extends MusicBeatState
 			seenCutscene = true;
 		}
 		else
-		{
+		{	
 			startCountdown();
 		}
 		RecalculateRating();
